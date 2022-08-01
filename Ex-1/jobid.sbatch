@@ -12,5 +12,5 @@
 #SBATCH --reservation=slurm-workshop
 
 echo “Hello”
-sleep 1m
+sleep 30s
 echo "Finished"
