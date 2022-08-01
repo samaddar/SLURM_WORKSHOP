@@ -9,7 +9,7 @@
 #SBATCH --job-name=MyJob
 #SBATCH --output=MyJob_%j.out
 #SBATCH --error=MyJob_%j.err
-#SBATCH --reservation=slurm-workshop
+
 
 echo “Hello”
 sleep 1m
